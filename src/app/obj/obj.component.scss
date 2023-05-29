@@ -1,0 +1,25 @@
+.boton {
+    margin-left: 11%;
+    margin-bottom: 20px;
+    transition: background-color 0.5s;
+    background-color: #0C427C;
+    cursor: pointer;
+    margin-right: 50px;
+    /* Espacio entre los botones */
+    border-radius: 10%;
+    /* Redondear los botones */
+}
+
+// .boton:last-child {
+//     margin-right: 0;
+//     /* Elimina el margen derecho del último botón */
+// }
+
+.boton.T {
+    background-color: blue;
+}
+
+.card-body{
+    background-color: #0C427C;
+    cursor: pointer;
+}
